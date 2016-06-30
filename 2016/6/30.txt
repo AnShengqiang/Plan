@@ -8,5 +8,5 @@ Plan:
 		1.Understand the whole architecture of the java web project, figure out what we had done and what is left.
 		2.Learn the rest of the project. Maybe they are JSP, JDBC, servlet.
 		3.Find my English notebook and take notes when reading English novels and playing games.
-		4.Keep running in the evening, when running I can practice the memory palace.
+		4.Run in the evening, when running I can practice the memory palace.
 		
