@@ -1,0 +1,12 @@
+Record:
+		Today I worked or studied in the 30th team in HUST's engineering practise training. 
+		The task of the training is to set up a java web project, and now we are woking on the SQL table.
+		I'm the first to join a team to start a project and now I feel confused on how to do next, and what's the use of what I did.
+		I dont want to let my partner down.
+	
+Plan:
+		1.Understand the whole architecture of the java web project, figure out what we had done and what is left.
+		2.Learn the rest of the project. Maybe they are JSP, JDBC, servlet.
+		3.Find my English notebook and take notes when reading English novels and playing games.
+		4.Keep running in the evening, when running I can practice the memory palace.
+		
